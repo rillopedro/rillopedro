@@ -14,9 +14,16 @@ Construindo aplicações e ampliando minha experiência por meio de projetos pr�
 
 ## Sobre mim
 
+Estou matriculado em Análise e Desenvolvimento de Sistemas (ADS) na FIAP e concluindo o ensino médio integrado ao técnico em TI na Etec MCM.
+
 Tenho interesse em desenvolvimento web e back-end, com projetos que exploram interfaces, APIs e integração com dados. Meu portfólio reúne aplicações e estudos em Python, PHP, HTML e CSS, mostrando minha evolução na construção de soluções.
 
 Busco oportunidades em tecnologia para contribuir com projetos, aprender com equipes experientes e aprofundar minhas habilidades de desenvolvimento.
+
+## Formação
+
+- **FIAP — Análise e Desenvolvimento de Sistemas (ADS):** matriculado.
+- **Etec MCM — Ensino médio integrado ao técnico em TI:** em fase de conclusão.
 
 ## Tecnologias na prática
 
