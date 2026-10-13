@@ -1,53 +1,50 @@
 <div align="center">
 
 # Pedro Henrique Rillo
+### Desenvolvimento web & back-end
 
-### Desenvolvimento web · APIs · Python · PHP
+**Python · FastAPI · PHP · HTML · CSS · Bootstrap**
 
-Construindo aplicações e ampliando minha experiência por meio de projetos práticos.
+ADS na **FIAP** · Técnico em TI na **Etec MCM**, em fase de conclusão
 
-[LinkedIn](https://www.linkedin.com/in/pedro-henrique-rillo-de-carvalho-24a5b7258/) · [Projetos](https://github.com/rillopedro?tab=repositories)
+[**Conecte-se comigo no LinkedIn →**](https://www.linkedin.com/in/pedro-henrique-rillo-de-carvalho-24a5b7258/) &nbsp; | &nbsp; [**Explore meus projetos →**](https://github.com/rillopedro?tab=repositories)
 
 </div>
 
 ---
 
-## Sobre mim
+## Código que mostra minha evolução
 
-Estou matriculado em Análise e Desenvolvimento de Sistemas (ADS) na FIAP e concluindo o ensino médio integrado ao técnico em TI na Etec MCM.
+Construo projetos para aplicar conhecimentos de desenvolvimento web, APIs e manipulação de dados. Meu portfólio conecta interfaces a funcionalidades de back-end, com exemplos de cadastro, validação e organização de informações.
 
-Tenho interesse em desenvolvimento web e back-end, com projetos que exploram interfaces, APIs e integração com dados. Meu portfólio reúne aplicações e estudos em Python, PHP, HTML e CSS, mostrando minha evolução na construção de soluções.
+**Busco oportunidades em tecnologia** para contribuir com aplicações, aprender com equipes experientes e evoluir como desenvolvedor.
 
-Busco oportunidades em tecnologia para contribuir com projetos, aprender com equipes experientes e aprofundar minhas habilidades de desenvolvimento.
+## Projetos em destaque
+
+| Projeto | O que você encontra | Tecnologias |
+| :--- | :--- | :--- |
+| [**Inventário Maker →**](https://github.com/rillopedro/api-inventario-maker) | API para gerenciar componentes de laboratório: operações CRUD, validação de dados e documentação automática. Protótipo com armazenamento em memória. | Python · FastAPI · Pydantic |
+| [**Vitalize →**](https://github.com/rillopedro/vitalize) | Aplicação web com páginas de cadastro, login, grupos e relatos, reunindo interface e lógica de aplicação. | PHP · HTML · CSS |
+| [**API de Livros →**](https://github.com/rillopedro/api-livros) | Projeto de gerenciamento de biblioteca, com back-end em Python, interface web e arquivos de banco de dados. Em desenvolvimento. | Python · Web |
+| [**Portfólio Bootstrap →**](https://github.com/rillopedro/curriculo.bootstrap) | Página pessoal com apresentação, habilidades e projetos, explorando a construção de interfaces web. | HTML · CSS · Bootstrap |
+
+## Minha base técnica
+
+- **Interfaces:** estruturação de páginas com HTML, estilos com CSS e componentes Bootstrap.
+- **APIs:** rotas HTTP, operações CRUD e validação de entradas com FastAPI e Pydantic.
+- **Back-end:** projetos práticos em Python e PHP.
+- **Versionamento:** organização de código e histórico de projetos com Git e GitHub.
 
 ## Formação
 
-- **FIAP — Análise e Desenvolvimento de Sistemas (ADS):** matriculado.
-- **Etec MCM — Ensino médio integrado ao técnico em TI:** em fase de conclusão.
+**FIAP**  
+Análise e Desenvolvimento de Sistemas (ADS) — matriculado.
 
-## Tecnologias na prática
+**Etec MCM**  
+Ensino médio integrado ao técnico em TI — em fase de conclusão.
 
-| Área | Tecnologias presentes nos projetos |
-| --- | --- |
-| Interfaces web | HTML, CSS, Bootstrap |
-| Back-end e APIs | Python, FastAPI, PHP |
-| Validação de dados | Pydantic |
-| Versionamento | Git e GitHub |
+---
 
-## Projetos para conhecer
+### Vamos construir o próximo projeto?
 
-### [API de Inventário Maker](https://github.com/rillopedro/api-inventario-maker)
-API em Python e FastAPI para gerenciar componentes de um laboratório maker. Implementa cadastro, listagem, atualização e exclusão de itens, com validação de dados via Pydantic e armazenamento em memória.
-
-### [Vitalize](https://github.com/rillopedro/vitalize)
-Projeto web em PHP com páginas de cadastro, login, grupos e relatos. Reúne interface e lógica de aplicação em um mesmo projeto.
-
-### [API de Livros](https://github.com/rillopedro/api-livros)
-Projeto voltado ao gerenciamento de biblioteca, com back-end em Python, interface web e arquivos de banco de dados. Em desenvolvimento.
-
-### [Portfólio com Bootstrap](https://github.com/rillopedro/curriculo.bootstrap)
-Página pessoal construída com HTML, CSS e Bootstrap para apresentar projetos e explorar a criação de interfaces.
-
-## Vamos conversar?
-
-Para oportunidades profissionais e conexões na área de tecnologia, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/pedro-henrique-rillo-de-carvalho-24a5b7258/).
+Se sua equipe busca alguém em início de carreira, com projetos práticos e interesse em desenvolvimento web e back-end, [**vamos conversar pelo LinkedIn**](https://www.linkedin.com/in/pedro-henrique-rillo-de-carvalho-24a5b7258/).
